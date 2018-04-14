@@ -18,7 +18,7 @@ $ mill mill.scalalib.GenIdeaModule/idea
 $ mill tips.test
 ```
 
+## Links
 * [슬라이드](./real-world-cats.pdf)
-
 * [사용한 코드](./tips/test/src/tips)
 
