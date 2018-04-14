@@ -2,7 +2,7 @@ package tips
 
 import cats.data.OptionT
 
-import scala.concurrent.duration.Duration
+import scala.concurrent.duration.Duration.
 import scala.concurrent.{Await, Future}
 import scala.util.Try
 import scala.concurrent.ExecutionContext.Implicits.global
